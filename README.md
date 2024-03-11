@@ -8,12 +8,12 @@ Primeiro repositório
 <p align="center">
 <img loading="lazy" src="https://logosmarcas.net/wp-content/uploads/2020/12/GitHub-Simbolo.png" height="400" width="500"/> 
  <h2 align="center"> Comandos Git </h2><br>
-<strong>Comando 1</strong>:Git Clean<br>
-<strong>Comando 2</strong>:Git clone<br>
-<strong>Comando 3</strong>:Git commit<br>
-<strong>Comando 4</strong>:Git merge<br>
-<strong>Comando 5</strong>:Git status<br>
-<strong>Comando 6</strong>:Git init<br>
+<strong>Comando 1</strong>:Git Clean: para excluir arqivos não monitorados<br>
+<strong>Comando 2</strong>:Git clone: clona o repositório<br>
+<strong>Comando 3</strong>:Git commit: ele captura as mudanças preparadas do projeto no momento. <br>
+<strong>Comando 4</strong>:Git merge:Depois de programar em uma branch, você tem que fazer uma conjunção dela com outras para de fato subir as alterações<br>
+<strong>Comando 5</strong>:Git status: para saber as sua ramificações<br>
+<strong>Comando 6</strong>:Git init:ele transforma uma pasta com códigos no seu HD em uma pasta monitorada pelo git, estará visível para outras pessoas<br>
 <p align="center">
 </h4>
 <p align="center">
