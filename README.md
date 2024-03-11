@@ -1,2 +1,2 @@
-# PrimeiroCommi
+# PrimeiroCommit
 Primeiro repositório 
